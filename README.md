@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-candypur-ibl8fmqs9-candypurs-projects.vercel.app
+https://deploy-this-repo-candypur.vercel.app
 
 
